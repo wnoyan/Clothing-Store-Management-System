@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1628665495 source:c:\users\noyan ali\desktop\cse project (3-1)\clothing store management system\main.cpp
+	"header.h"
+	<bits/stdc++.h>
+
+1628665120 c:\users\noyan ali\desktop\cse project (3-1)\clothing store management system\header.h
+	"Cloths.h"
+
+1626000548 c:\users\noyan ali\desktop\cse project (3-1)\clothing store management system\testing.h
+	<bits/stdc++.h>
+
+1626070669 c:\users\noyan ali\desktop\cse project (3-1)\clothing store management system\cloths.h
+	<bits/stdc++.h>
+
+1626032777 c:\users\noyan ali\desktop\cse project (3-1)\clothing store management system\male.h
+	<bits/stdc++.h>
+
+1626032801 c:\users\noyan ali\desktop\cse project (3-1)\clothing store management system\female.h
+	<bits/stdc++.h>
+
+1626032822 c:\users\noyan ali\desktop\cse project (3-1)\clothing store management system\children.h
+	<bits/stdc++.h>
+
+1626032854 c:\users\noyan ali\desktop\cse project (3-1)\clothing store management system\add.h
+	<bits/stdc++.h>
+
+1628665495 source:f:\helpothers\cse project (3-1)\clothing store management system\main.cpp
+	"header.h"
+	<bits/stdc++.h>
+
+1628665120 f:\helpothers\cse project (3-1)\clothing store management system\header.h
+	"Cloths.h"
+
+1626070669 f:\helpothers\cse project (3-1)\clothing store management system\cloths.h
+	<bits/stdc++.h>
+
