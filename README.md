@@ -2,7 +2,14 @@
 
 ## YouTube Video Link: https:Cooming/Soon/
 
-Clothing store management system is a project that is going to manage the details of customers, products, sales and employees. The system will automate the functionalities of a friendly clothing store. The project is totally be built at the administrative end which will ensure that only administrators can access.
+The clothing store management system is a menu-driven project that has been implemented using OOP features in C++ and manages the details of customers, products, sales, and employees. The system automates the functionalities of a friendly clothing store. The project has been totally built at the administrative end.
+
+## Object Oriented Programming (OOP) Features
+The OOP features that have been used in this project are listed below:
+  * Encapsulation
+  * Abstraction
+  * Inheritance
+  * Polymorphism
 
 ## Snapshots of the Project
 
